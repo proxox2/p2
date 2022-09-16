@@ -1,0 +1,47 @@
+[
+    {
+        "id": 101,
+        "productName": "Product 101",
+        "productDesc": "Lorem ipsum...",
+        "price": 150,
+        "image":"https://th.bing.com/th/id/OIP.W04K0Mq2nlJRLQOpdFgDDwHaHa?pid=ImgDet&rs=1"
+
+
+    },
+    {
+        "id": 102,
+        "productName": "Product 102",
+        "productDesc": "Lorem ipsum...",
+        "price": 159,
+        "image":"https://th.bing.com/th/id/OIP.W04K0Mq2nlJRLQOpdFgDDwHaHa?pid=ImgDet&rs=1"
+
+
+    },
+    {
+        "id": 103,
+        "productName": "Product 103",
+        "productDesc": "Lorem ipsum...",
+        "price": 160,
+        "image":"https://th.bing.com/th/id/OIP.AKd2CJLVGO_p3GVfuJGuTwHaD_?pid=ImgDet&rs=1"
+    },
+    {
+        "id": 104,
+        "productName": "Product 104",
+        "productDesc": "Lorem ipsum...",
+        "price": 180,
+        "image":"https://i8.amplience.net/i/jpl/jd_H67950_a?qlt=92"},
+        {
+        "id": 105,
+        "productName": "Product 105",
+        "productDesc": "Lorem ipsum...",
+        "price": 260,
+        "image":"https://th.bing.com/th/id/R.30346e2c44d54528ca420f0982e45ff6?rik=aRfD%2fXcUfc1edw&riu=http%3a%2f%2fwww.stylesglamour.com%2fwp-content%2fuploads%2f2015%2f01%2fReebok-Sports-shoes-and-running-shoes-for-men-17.jpg&ehk=6F9zG%2fIdLyNuleSBNjo8xVVIda22I%2fRAEHSDngmHrd4%3d&risl=&pid=ImgRaw&r=0"
+    }, 
+    {
+        "id": 106,
+        "productName": "Product 106",
+        "productDesc": "Lorem ipsum...",
+        "price": 360,
+        "image":"https://th.bing.com/th/id/R.c54adc8de282065ccb472c63a0726aea?rik=hJ8%2bqHHttIzxjg&riu=http%3a%2f%2fpreview.turbosquid.com%2fPreview%2f2014%2f05%2f18__21_37_29%2fShoesReebokQuestion_159.jpg07b9cd24-e1a8-4632-825e-bb6e5c28859dOriginal.jpg&ehk=8MzMPRj4Xaf525l4A3z4x6E1CKktwMGYO5rz%2fSDTIY0%3d&risl=&pid=ImgRaw&r=0"
+     }
+]
