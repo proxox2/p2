@@ -1,4 +1,4 @@
-import { useEffect ,useState} from 'react'
+
 import sh1 from'../../assests/images/sh1.jpg'
 import sh2 from'../../assests/images/sh2.jpg'
 import sh3 from'../../assests/images/sh3.jpg'
@@ -7,11 +7,7 @@ import Layout from '../../hoc/layout'
 
 
 export default function Home(){
-  const [data, setData] = useState([])
 
-  useEffect(() => {
-
-  }, [])
      return(
        <Layout headerTitle="Reebok Store " headerText="Welcome to the Reebok Store" 
        activPage="home">
